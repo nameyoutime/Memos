@@ -1,5 +1,7 @@
 Hello this is my first project with team and this is the result
 
+This project used: AngularJS, nodeJS, Express, Firebase 
+
 ![memos-logo](https://user-images.githubusercontent.com/77221040/201473383-d4df23b0-23b2-4321-ade6-d16d5f42c793.png)
 
 Login/register
