@@ -1,4 +1,16 @@
-Hello this is my first project with team and this is the result
+Hello this is my first project with team and this is the result.
+This project is a clone of goolge keep.
+Project function:<br/>
+Login<br/>
+Register<br/>
+Create note<br/>
+Edit note<br/>
+Delete note<br/>
+Change note color<br/>
+Upload image to note <br/>
+Archive the note<br/>
+restore note from trash pin<br/>
+
 
 This project used: AngularJS, nodeJS, Express, Firebase 
 
